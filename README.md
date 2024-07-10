@@ -67,6 +67,21 @@ Follow these steps to set up and use CloudFlare-DDNS-AutoUpdater:
    ./updater-NAME.sh
 
 
+## Setting Up CronTab
+
+To automate the execution of your script, you can set up a Cron job. This will run the script at regular intervals to ensure your DNS records are always up to date.
+
+- Open the CronTab editor:
+  ```sh
+  crontab -e
+
+- Add the following line to run the script every hour (you can adjust the timing as needed)
+  ```sh
+   0 * * * * /path/to/CloudFlare-DDNS-Updater/updater-YOUR-NAME.sh
+
+. Replace /path/to/CloudFlare-DDNS-Updater/updater-YOUR-NAME.sh with the actual path to your script.
+- Save and exit the editor.
+
 ## Obtaining CloudFlare API Key and Zone ID
 
 ### API Key:
