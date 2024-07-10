@@ -69,15 +69,18 @@ Follow these steps to set up and use CloudFlare-DDNS-AutoUpdater:
 
 ## Obtaining CloudFlare API Key and Zone ID
 
-    API Key:
-        Log in to CloudFlare.
-        Go to your account settings.
-        Scroll down to the "API Key" section.
-        Click "View" next to "Global API Key" and copy it.
+### API Key:
 
-    Zone ID:
-        Go to the dashboard for your domain.
-        The Zone ID is displayed on the right side under "API".
+1. Log in to CloudFlare.
+2. Go to your account settings.
+3. Scroll down to the "API Key" section.
+4. Click "View" next to "Global API Key" and copy it.
+
+### Zone ID:
+
+1. Go to the dashboard for your domain.
+2. The Zone ID is displayed on the right side under "API".
+
 
 ## Check Your Public IP
 
