@@ -60,11 +60,11 @@ Follow these steps to set up and use CloudFlare-DDNS-AutoUpdater:
 
 8. **Make sure that the script is executable**:
     ```sh
-   chmod +x updater-YOUR-NAME.sh
+   chmod +x ./updater-NAME.sh
 
 9. **Run the Script**:
    ```sh
-   ```sh
+   ./updater-NAME.sh
 
 
 ## Obtaining CloudFlare API Key and Zone ID
@@ -84,10 +84,10 @@ Follow these steps to set up and use CloudFlare-DDNS-AutoUpdater:
 
 ## Check Your Public IP
 
-To verify your public IP address, visit whatismyip.com.
-Donate
+To verify your public IP address, visit whatismyip.com
 
-## If you find this tool useful, consider making a donation to support its development:
+## Donate
 
-    Donate via PayPal
-    Bitcoin Address: YOUR_BITCOIN_ADDRESS
+If you find this tool useful, consider making a donation to support its development:
+Donate via PayPal
+Bitcoin Address: 
