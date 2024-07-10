@@ -89,5 +89,5 @@ To verify your public IP address, visit whatismyip.com
 ## Donate
 
 If you find this tool useful, consider making a donation to support its development:
-Donate via PayPal
-Bitcoin Address: 
+[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=Y4VYE4KDKV9W8)
+
